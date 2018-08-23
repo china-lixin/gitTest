@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<base href="http://www.avic-intl.cn/"/>
+<meta name="renderer" content="webkit|ie-comp|ie-stand" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta name="keywords" content="中航国际,AVIC INTL"/>
+<meta name="description"  content="中航国际"/>
+<link href="style/css/common.css" type="text/css" rel="stylesheet" />
+<link href="style/css/index.css" type="text/css" rel="stylesheet" />
+<link rel="shortcut icon" href="images/favicon.ico"/>
+<link rel="bookmark" href="images/favicon.ico"/>
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/jqueryform.js"></script>
+<script src="js/main.js"></script>
+<script src="js/common.js"></script>
+<script src="js/jquery.SuperSlide.2.1.2.js"></script>
+
+<title>中航国际</title>
+</head>
+
+<body>
+    <div class="header clearfix">
+        <div class="boxer">
+            <div class="logo"><a href="index.html"><img src="images/logo.png" width="170" height="50" /></a></div>
+            <div class="fr">
+                <div class="header-top clearfix">
+                    <div class="header-search fr">
+                    	<form id="searchForm1" method="post" action="all_found" >
+                        <input type="text" id="tbss" name="title" value="请输入搜索信息" class="text" />
+                        <input type="hidden" name="languageType" value="0" />
+                        <input type="submit" value="" class="submit" />
+                        </form>
+                    </div>
+                    <div class="header-language fr">
+                        <a href="http://www.avic-intl.cn/index.html">中文</a>
+                        <span>|</span><a href="http://www.avic-intl.cn/english/index_en.html">English</a>
+                    </div>
+                    <div class="header-select fr" style="width: 70px;">
+                        <a href="http://www.avic.com.cn/" target="_blank">集团主页</a>
+                    </div>
+                    <div class="header-select fr" id="group">
+                        <span>公司网群</span>
+                        <div class="wzqhov header-option">
+                            <div class="wzqhov-table">
+                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                    <tbody>
+                                    
+	                                    <tr class="padding-20" >
+                                    		<td rowspan="10" width="160"><img src="images/zyzz2.jpg"></td>
+	                                        	<td><a href="http://www.avic-intl-sz.cn" target="_blank">中航国际深圳公司</a></td>
+	                                        	<td><a href="http://www.avicsunda.com/" target="_blank">中航善达股份有限公司</a></td>
+	                                        	<td><a href="http://www.intl-bj.avic.com" target="_blank">中航国际北京公司</a></td>
+	                                    </tr>
+		                                    <tr>
+		                                        	<td ><a href="http://www.caticsh.com.cn/" target="_blank">中航国际上海公司</a></td>
+		                                        	<td ><a href="http://www.caticgz.cn/" target="_blank">中航国际广州公司</a></td>
+		                                        	<td ><a href="http://www.avicade.com/" target="_blank">中航国际航发公司</a></td>
+		                                    </tr>
+			                                    <tr>
+			                                        	<td ><a href="http://www.tianma.cn/" target="_blank">天马微电子股份有限公司</a></td>
+			                                        	<td ><a href="http://www.avic-logistics.com.cn" target="_blank">中航国际物流公司</a></td>
+			                                        	<td ><a href="http://www.avic-lutong.com/index.html" target="_blank">中航国际路通公司</a></td>
+			                                    </tr>
+		                                    <tr>
+		                                        	<td ><a href="http://www.avic-intl-zh.cn/" target="_blank">中航国际珠海公司</a></td>
+		                                        	<td ><a href="http://www.scc.com.cn/" target="_blank">深南电路有限公司</a></td>
+		                                        	<td ><a href="http://www.avic-pm.com/web/" target="_blank">中航物业管理有限公司</a></td>
+		                                    </tr>
+		                                    <tr>
+		                                        	<td ><a href="http://www.avicship.com" target="_blank">中航国际船舶公司</a></td>
+		                                        	<td ><a href="http://www.continentalmotors.cn/" target="_blank">大陆发动机集团有限公司</a></td>
+		                                        	<td ><a href="http://www.szrainbow.com.cn/szrb/default.action" target="_blank">天虹商场股份有限公司</a></td>
+		                                    </tr>
+		                                    <tr>
+		                                        	<td ><a href="http://www.avic-steel.com" target="_blank">中航国际钢贸公司</a></td>
+		                                        	<td ><a href="http://www.fiyta.com.cn/" target="_blank">飞亚达（集团）股份有限公司</a></td>
+		                                        	<td ><a href="http://www.avic-mr.com/" target="_blank">中航国际矿产资源公司</a></td>
+		                                    </tr>
+		                                    <tr>
+		                                        	<td ><a href="http://www.gshmhotels.com" target="_blank">深圳格兰云天酒店管理有限公司</a></td>
+		                                        	<td ><a href="http://www.intl-xm.avic.com/" target="_blank">中航国际厦门公司</a></td>
+		                                        	<td ><a href="http://www.avic-cl.com/" target="_blank">中航国际煤炭物流公司</a></td>
+		                                    </tr>
+		                                    <tr>
+		                                        	<td ><a href="http://www.shbc.com.cn/docc/default.html" target="_blank">深圳航空标准件有限公司</a></td>
+		                                        	<td ><a href="http://www.intl-ct.avic.com" target="_blank">中航国际成套公司</a></td>
+		                                        	<td ><a href="http://www.aited.cn/" target="_blank">中航国际经贸有限公司</a></td>
+		                                    </tr>
+	                                    <tr>
+	                                        	<td  ><a href="http://www.avic-sim.cn/" target="_blank">中航国际仿真科技公司</a></td>
+	                                        	<td  ><a href="http://www.catic-eng.com/" target="_blank">中航国际工程公司</a></td>
+	                                        	<td  ><a href="http://www.avic-energy.com/" target="_blank">中航国际新能源公司</a></td>
+	                                    </tr>
+                                	</tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="header-select fr" id="link">
+                        <span>相关链接</span>
+                        <table cellpadding="0" cellspacing="0" border="0" class="hidtable header-option" align="center">
+                            <tbody>
+                                <tr><td colspan="2" height="10"></td></tr>
+                                <tr>
+	                                    <td class="kh"><a href="http://www.avic.com/cn/lyxgz/kh/index.shtml" target="_blank" hidefocus=""><img src="/upload/a/link/image/20161121154357_213.jpg" width="100" height="90"></a></td>
+	                                    <td class="kh"><a href="http://www.avic.com/cn/lyxgz/dzz/index.shtml" target="_blank" hidefocus=""><img src="/upload/a/link/image/20161121154443_44.jpg" width="100" height="90"></a></td>
+                                </tr>
+                                <tr>
+                                    	<td style="text-align:center"><a href="http://www.avic.com/cn/lyxgz/kh/index.shtml" target="_blank" hidefocus="">客户</a></td>
+                                    	<td style="text-align:center"><a href="http://www.avic.com/cn/lyxgz/dzz/index.shtml" target="_blank" hidefocus="">投资者</a></td>
+                                </tr>
+                                <tr><td colspan="2" height="10"></td></tr>
+                            </tbody>
+                        </table>
+                    </div>-->
+                </div>
+				<DIV  id="soccer"  style="border:0px solid #F00;padding: 0px 0px 50px; float: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="http://loading.dajie.com/avic-intl/index.html" target="_blank"><IMG width="125" 
+				height="75" src="images/zh008x.jpg"></A></DIV>
+				<SCRIPT>
+				var msecs=2000;  //注：这是闪烁间隔，越大间隔越长，越小闪的越历害!
+				var counter=0;
+				function soccerOnload(){
+				setTimeout("blink()", msecs)}
+				function blink(){
+				soccer.style.visibility=
+				(soccer.style.visibility=="hidden") ? "visible" : "hidden"
+				counter+=1;setTimeout("blink()", msecs)}soccerOnload()
+				</SCRIPT>
+				<!-- 添加招聘end -->
+				
+                <div class="naver clearfix">
+                    <ul>
+                        <li class="no"><a href="col_lo?columnsId=18">联系我们</a></li>
+                        <li>
+                            <a href="col_lo?columnsId=17">人才发展</a>
+                            <div class="menu-pub menu05">
+                                <div class="fl" style="width:340px;">
+                                    <div class="pic"><img src="/upload/a/news/image/20170111143051_836.jpg" width="300" height="250"></div>
+                                </div>
+                                <div class="menu-down">
+                                    <div class="fl" style="width:150px;">
+                                        <dl>
+	                                            <dt><a href="col_lo?columnsId=51" class="menulink">以人为本</a></dt>
+	                                            <dt><a href="col_lo?columnsId=53" class="menulink">中航国际商学院</a></dt>
+                                        </dl>
+                                    </div>
+                                    <br clear="left">
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="col_lo?columnsId=16">媒体中心</a>
+                            <div class="menu-pub menu04">
+                                <div class="fl" style="width:340px;">
+                                    <div class="pic"><img src="/upload/a/news/image/20170111143026_94.jpg" width="300" height="250"></div>
+                                </div>
+                                <div class="menu-down">
+                                    <div class="fl" style="width:150px;">
+                                        <dl>
+	                                            <dt><a href="col_lo?columnsId=47" class="menulink">新闻动态</a></dt>
+	                                            <dt><a href="col_lo?columnsId=48" class="menulink">《中航国际》报</a></dt>
+	                                            <dt><a href="col_lo?columnsId=49" class="menulink">《分享》杂志</a></dt>
+	                                            <dt><a href="col_lo?columnsId=50" class="menulink">视频</a></dt>
+                                        </dl>
+                                    </div>
+                                    <br clear="left">
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="col_lo?columnsId=15">社会责任</a>
+                            <div class="menu-pub menu03">
+                                <div class="fl" style="width:340px;">
+                                    <div class="pic"><img src="/upload/a/news/image/20170111143010_231.jpg" width="300" height="250"></div>
+                                </div>
+                                <div class="menu-down">
+                                    <div class="fl" style="width:150px;">
+                                        <dl>
+	                                            <dt><a href="col_lo?columnsId=41" class="menulink">社会责任体系</a></dt>
+	                                            <dt><a href="col_lo?columnsId=42" class="menulink">幸福加油站</a></dt>
+	                                            <dt><a href="col_lo?columnsId=43" class="menulink">乡村教师培训</a></dt>
+	                                            <dt><a href="col_lo?columnsId=44" class="menulink">非洲职业技能大赛</a></dt>
+	                                            <dt><a href="col_lo?columnsId=45" class="menulink">小小飞行侠</a></dt>
+	                                            <dt><a href="col_lo?columnsId=46" class="menulink">可持续发展报告</a></dt>
+                                        </dl>
+                                    </div>
+                                    <br clear="left">
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="col_lo?columnsId=14">业务领域</a>
+                            <div class="menu-pub menu02" style="display: none;">
+                                <div class="fl" style="width:340px;">
+                                    <div class="pic"><img src="/upload/a/news/image/20170111142926_402.jpg" width="300" height="250"></div>
+                                </div>
+                                <div class="menu-down">
+                                    <div class="fl" style="width:280px;">
+                                        <dl>
+                                            <dt><a href="col_lo?columnsId=19" class="menulink">国际航空</a></dt>
+	                                            <dd><a href="col_lo?columnsId=28" class="menulink">现代物流服务和标准件集成供应服务</a></dd>
+	                                            <dd><a href="col_lo?columnsId=26" class="menulink">航空制造技术服务和零部件制造管理服务</a></dd>
+	                                            <dd><a href="col_lo?columnsId=27" class="menulink">航空运营服务</a></dd>
+	                                            <dd><a href="col_lo?columnsId=2118" class="menulink">智慧供应链集成平台</a></dd>
+                                            
+                                            <dt><a href="col_lo?columnsId=21" class="menulink">电子信息</a></dt>
+	                                            <dd><a href="col_lo?columnsId=32" class="menulink">显示业务</a></dd>
+	                                            <dd><a href="col_lo?columnsId=33" class="menulink">PCB互联业务</a></dd>
+	                                            <dd><a href="col_lo?columnsId=2114" class="menulink">紧固件业务</a></dd>
+                                            
+                                        </dl>
+                                    </div>
+                                    <div class="fl" style="width:178px;">
+                                        <dl>
+                                            <dt><a href="col_lo?columnsId=20" class="menulink">国际业务</a></dt>
+	                                            <dd><a href="col_lo?columnsId=29" class="menulink">基础设施建设</a></dd>
+	                                            <dd><a href="col_lo?columnsId=30" class="menulink">成套设备与项目总包</a></dd>
+	                                            <dd><a href="col_lo?columnsId=31" class="menulink">水泥建材工程</a></dd>
+	                                            <dd><a href="col_lo?columnsId=2121" class="menulink">沥青与机电产品</a></dd>
+
+                                            <dt><a href="col_lo?columnsId=23" class="menulink">现代服务业</a></dt>
+	                                            <dd><a href="col_lo?columnsId=37" class="menulink">商业零售</a></dd>
+	                                            <dd><a href="col_lo?columnsId=38" class="menulink">品牌手表与连锁</a></dd>
+	                                            <dd><a href="col_lo?columnsId=2120" class="menulink">商业资产管理和物业服务</a></dd>
+	                                            <dd><a href="col_lo?columnsId=2109" class="menulink">酒店管理</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="fl" style="width:145px;">
+                                        <dl>
+                                            <dt><a href="col_lo?columnsId=22" class="menulink">其他业务</a></dt>
+	                                            <dd><a href="col_lo?columnsId=36" class="menulink">船舶业务</a></dd>
+	                                            <dd><a href="col_lo?columnsId=2126" class="menulink">新能源业务</a></dd>
+
+                                            
+                                        </dl>
+                                    </div>
+                                    <br clear="left">
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="col_lo?columnsId=2">关于我们</a>
+                            <div class="menu-pub menu01" style="display: none;">
+                                <div class="fl" style="width:340px;">
+                                    <div class="pic"><img src="/upload/a/news/image/20170111142832_298.jpg" width="300" height="250"></div>
+                                </div>
+                                <div class="menu-down">
+                                    <div class="fl" style="width:110px;">
+                                        <dl>
+                                            <dt><a href="col_lo?columnsId=3" class="menulink">公司介绍</a></dt>
+
+                                            <dt><a href="col_lo?columnsId=4" class="menulink">企业文化</a></dt>
+
+                                            <dt><a href="col_lo?columnsId=5" class="menulink">领导致辞</a></dt>
+	                                            <dd><a href="col_lo?columnsId=6" class="menulink">董事长致辞</a></dd>
+	                                            <dd><a href="col_lo?columnsId=7" class="menulink">总裁致辞</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="fl" style="width:125px;">
+                                        <dl>
+                                        	<dt><a href="col_lo?columnsId=8" class="menulink">领导团队</a></dt>
+                                        	
+                                            <dt><a href="col_lo?columnsId=9" class="menulink">企业架构</a></dt>
+	                                            <dd><a href="col_lo?columnsId=10" class="menulink">投资企业</a></dd>
+	                                            <dd><a href="col_lo?columnsId=11" class="menulink">海外机构</a></dd>
+	                                            <dd><a href="col_lo?columnsId=12" class="menulink">上市公司</a></dd>
+
+                                            <dt><a href="col_lo?columnsId=13" class="menulink">历史沿革</a></dt>
+                                        </dl>
+                                    </div>
+                                    <br clear="left">
+                                </div>
+                            </div>
+                        </li>
+                        <li class="no"><a href="http://www.avic-intl.cn/">首页</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!--banner-->
+	
+    	<div class="banner clearfix">
+        <div class="hd">
+            <ul>
+				<li  class="whiteLi02"></li>
+				<li ></li>
+				<li ></li>
+				<li ></li>
+				<li ></li>
+				<li ></li>
+            </ul>
+        </div>
+        <div class="bd">
+            <ul>
+	                <li style="background-image: url(/upload/a/advert/image/20161121154051_348.jpg);">
+	                    <div class="banner-link " >
+	                        <h2>超越商业 共创美好世界</h2>
+	                        <h4><!--StartFragment -->
+<p>
+	国际航空 /&nbsp;<span>电子</span>信息&nbsp;/ <span>国际</span>业务&nbsp;/ 现代服务业&nbsp;
+</p></h4>
+	                        <a href="/col_lo?columnsId=19" target="_blank" class="more">了解更多&nbsp;&gt;</a>
+	                    </div>
+	                </li>
+	                <li style="background-image: url(/upload/a/advert/image/20161129171237_726.jpg);">
+	                    <div class="banner-link " >
+	                        <h2>航空业务</h2>
+	                        <h4><p>
+	我们依托中国航空工业并利用全球资源，服务航空，
+</p>
+<p>
+	<p class="MsoNormal">
+		致力于成为航空工业国际技术合作、供应链管理、
+	</p>
+	<p class="MsoNormal">
+		制造配套、飞机出口及运营保障的综合服务商。
+	</p>
+</p></h4>
+	                        <a href="/col_lo?columnsId=20" target="_blank" class="more">了解更多&nbsp;&gt;</a>
+	                    </div>
+	                </li>
+	                <li style="background-image: url(/upload/a/advert/image/20161129170637_439.jpg);">
+	                    <div class="banner-link white " >
+	                        <h2>电子信息</h2>
+	                        <h4><p>
+	我们在显示、PCB互联等业务领域建立起行业领先优势，
+</p>
+<p>
+	<br />
+</p>
+<p class="MsoNormal">
+	正不断推动技术和业务模式的转型升级，向集成组件、
+</p>
+<p class="MsoNormal">
+	部件及解决方案拓展，致力于成为高端电子元器件技术
+</p>
+<p class="MsoNormal">
+	与解决方案的集成供应商。<span></span> 
+</p>
+<p>
+	<br />
+</p></h4>
+	                        <a href="/col_lo?columnsId=21" target="_blank" class="more">了解更多&nbsp;&gt;</a>
+	                    </div>
+	                </li>
+	                <li style="background-image: url(/upload/a/advert/image/20180523152617_41.jpg);">
+	                    <div class="banner-link white " >
+	                        <h2>国际业务</h2>
+	                        <h4><p class="MsoNormal">
+	我们以航空基础设施、水泥、能源电力、轨道交通、职业教育为重点发展行业，
+</p>
+<p class="MsoNormal">
+	突出项目策划、融资管理、项目管理和资源整合优势，培养专业团队，形成专业
+</p>
+<p class="MsoNormal">
+	能力，深耕非洲、南美以及东南亚、中东、中亚等“一带一路”沿线国家及重点国
+</p>
+<p class="MsoNormal">
+	别，在海外形成品牌效应，造福当地政府及民众，成为发挥国际航空业务溢出效
+</p>
+<p class="MsoNormal">
+	应、促进“一带一路”倡议实施的纽带桥梁。<span></span> 
+</p>
+<p>
+	<br />
+</p></h4>
+	                        <a href="/col_lo?columnsId=20" target="_blank" class="more">了解更多&nbsp;&gt;</a>
+	                    </div>
+	                </li>
+	                <li style="background-image: url(/upload/a/advert/image/20180522163530_689.jpg);">
+	                    <div class="banner-link white " >
+	                        <h2>现代服务业</h2>
+	                        <h4><p>
+	我们紧抓消费升级和信息技术创新机遇，以品牌建设为核心，
+</p>
+<p>
+	创新商业模式、创造客户价值、引领高品质生活，培育了天虹、
+</p>
+<p class="MsoNormal">
+	飞亚达、亨吉利、格兰云天等知名消费服务品牌。<span></span> 
+</p>
+<p>
+	<br />
+</p></h4>
+	                        <a href="/col_lo?columnsId=23" target="_blank" class="more">了解更多&nbsp;&gt;</a>
+	                    </div>
+	                </li>
+	                <li style="background-image: url(/upload/a/advert/image/20180523161138_446.jpg);">
+	                    <div class="banner-link white " >
+	                        <h2>其他业务</h2>
+	                        <h4><p>
+	我们秉承专业化发展思路，聚合优势资源，发挥产业链整合<span>优势，</span> 
+</p>
+<p>
+	致力于成为具有国际影响力的集成方案和增值服务供应商。
+</p></h4>
+	                        <a href="/col_lo?columnsId=22" target="_blank" class="more">了解更多&nbsp;&gt;</a>
+	                    </div>
+	                </li>
+            </ul>
+        </div>
+    </div>
+
+	<!--banner结束-->	
+
+
+    <div class="main clearfix">
+       <div class="ovh clearfix">
+        <div class="news fl">
+            <div class="news-slide">
+                <div class="bd">
+                    <ul>                   
+                        <li>
+                            <a href="html/news/4530.html">
+                                <img src="/upload/a/news/image/20180730160044_817.jpg"  width="380px;" height="210px;"  />
+                                <p>蔡奇陈吉宁调研中航远景</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="html/news/4529.html">
+                                <img src="/upload/a/news/image/20180730160123_474.png"  width="380px;" height="210px;"  />
+                                <p>变革重构  聚焦突破  价值增长 中航国际召开2018年半年度工作会</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="html/news/4524.html">
+                                <img src="/upload/a/news/image/20180730155632_372.jpg"  width="380px;" height="210px;"  />
+                                <p>“国际星”管培生暑期实习正式启动</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="html/news/4522.html">
+                                <img src="/upload/a/news/image/20180711133342_989.jpg"  width="380px;" height="210px;"  />
+                                <p>强化班子建设 优化干部管理 新时代有新担当新作为——中航国际召开党建工作座谈会</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="html/news/4521.html">
+                                <img src="/upload/a/news/image/20180712141232_252.jpg"  width="380px;" height="210px;"  />
+                                <p>首架波音737 MAX 48段交付客户</p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="hd">
+                    <ul></ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="news-txt fl">    
+            <div class="main-title">
+                <p>新闻中心</p>
+                <a href="col_lo?columnsId=47">了解更多&nbsp;&gt;</a>
+            </div>
+            <ul class="news-list">            
+                    <li>
+                        <a href="html/news/4530.html">
+                            <span>2018-07-20</span>
+                            <p>蔡奇陈吉宁调研中航远景</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="html/news/4529.html">
+                            <span>2018-07-20</span>
+                            <p>变革重构  聚焦突破  价值增长 中航国际召开2018年半年度工作会</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="html/news/4528.html">
+                            <span>2018-07-20</span>
+                            <p>航空工业推介中航物流供应链集成服务新模式</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="html/news/4527.html">
+                            <span>2018-07-20</span>
+                            <p>中航国际多措并举推进“安全生产月”100,000+员工  1,524场应急演练</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="html/news/4526.html">
+                            <span>2018-07-20</span>
+                            <p>中航物流聚力航空铝管质量攻关</p>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+
+        <div class="social-responsibility fl"> 
+            <div class="main-title">
+                <p>社会责任</p>
+                <a href="col_lo?columnsId=15">了解更多&nbsp;&gt;</a>
+            </div>
+            <a href="col_lo?columnsId=15" class="pic">
+                <img src="images/index_03.jpg" />
+            </a>
+        </div>
+</div>
+<div class="ovh clearfix">
+        <div class="international-avitation fl">
+            <a href="col_lo?columnsId=19">
+                <img src="images/index_07.jpg" />
+                <p>国际航空</p>
+            </a>
+        </div>
+
+        <div class="electronic-business fl">
+            <a href="col_lo?columnsId=21">
+                <img src="images/index_09.jpg" />
+                <p>电子信息</p>
+            </a>
+        </div>
+
+        <div class="international-business fl">
+            <a href="col_lo?columnsId=20">
+                <img src="images/index_11.jpg" />
+                <p>国际业务</p>
+            </a>
+        </div>
+       </div>
+    </div>        
+    
+    <!--底部-->
+	<div class="footer clearfix">
+        <div class="boxer">
+            <div class="footer-link clearfix">
+                <img src="images/logo.png" class="footer-logo" />
+						                <dl style="width: 178px;">
+		                    <dt><a href="col_lo?columnsId=2">关于我们</a></dt>
+		                    	<dd><a href="col_lo?columnsId=3">公司介绍</a></dd>
+		                    	<dd><a href="col_lo?columnsId=4">企业文化</a></dd>
+		                    	<dd><a href="col_lo?columnsId=5">领导致辞</a></dd>
+		                    	<dd><a href="col_lo?columnsId=8">领导团队</a></dd>
+		                    	<dd><a href="col_lo?columnsId=9">企业架构</a></dd>
+		                    	<dd><a href="col_lo?columnsId=13">历史沿革</a></dd>
+		                </dl>
+		                <dl style="width: 178px;">
+		                    <dt><a href="col_lo?columnsId=14">业务领域</a></dt>
+		                    	<dd><a href="col_lo?columnsId=19">国际航空</a></dd>
+		                    	<dd><a href="col_lo?columnsId=21">电子信息</a></dd>
+		                    	<dd><a href="col_lo?columnsId=20">国际业务</a></dd>
+		                    	<dd><a href="col_lo?columnsId=23">现代服务业</a></dd>
+		                    	<dd><a href="col_lo?columnsId=22">其他业务</a></dd>
+		                </dl>
+		                <dl style="width: 178px;">
+		                    <dt><a href="col_lo?columnsId=15">社会责任</a></dt>
+		                    	<dd><a href="col_lo?columnsId=41">社会责任体系</a></dd>
+		                    	<dd><a href="col_lo?columnsId=42">幸福加油站</a></dd>
+		                    	<dd><a href="col_lo?columnsId=43">乡村教师培训</a></dd>
+		                    	<dd><a href="col_lo?columnsId=44">非洲职业技能大赛</a></dd>
+		                    	<dd><a href="col_lo?columnsId=45">小小飞行侠</a></dd>
+		                    	<dd><a href="col_lo?columnsId=46">可持续发展报告</a></dd>
+		                </dl>
+		                <dl style="width: 178px;">
+		                    <dt><a href="col_lo?columnsId=16">媒体中心</a></dt>
+		                    	<dd><a href="col_lo?columnsId=47">新闻动态</a></dd>
+		                    	<dd><a href="col_lo?columnsId=48">《中航国际》报</a></dd>
+		                    	<dd><a href="col_lo?columnsId=49">《分享》杂志</a></dd>
+		                    	<dd><a href="col_lo?columnsId=50">视频</a></dd>
+		                </dl>
+		                <dl style="width: 178px;">
+		                    <dt><a href="col_lo?columnsId=17">人才发展</a></dt>
+		                    	<dd><a href="col_lo?columnsId=51">以人为本</a></dd>
+		                    	<dd><a href="col_lo?columnsId=53">中航国际商学院</a></dd>
+		                </dl>
+                <dl style="width: 148px;">
+                    <dt><a href="#">社交媒体</a></dt>
+                    <dd class="social">
+                        <div class="weibo"><a href="http://weibo.com/p/1006062786981943/home?from=page_100606&mod=TAB&is_all=1#place" target="_blank" ><img src="images/weibo_31.jpg" /></a></div>
+                    </dd>
+                    <dd class="social">
+                        <div class="wechat">微信<img src="/upload/productImages/image/20161129185008_571.png" class="qcode" /></div>                        
+                    </dd>
+                </dl>
+            </div>
+
+            <div class="footer-copy clearfix">
+                <div class="fl">
+                    <p>版权所有： 中国航空技术国际控股有限公司  </p>
+                    <p>京ICP备10217118号-1 京公网安备11040102100210号</p>
+                </div>
+                <div class="fr">
+                    <a href="col_lo?columnsId=54">使用条款</a>
+                    <span>|</span>
+                    <a href="col_lo?columnsId=18">联系我们</a>
+	      <span>|</span>
+                    <a href="col_lo?columnsId=2115">网站地图</a>
+                </div>
+            </div>
+        </div>
+    </div>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1261777181'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1261777181%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>    
+	<!--底部end-->
+	
+<script type="text/javascript">
+    jQuery(".banner").slide({
+        mainCell:".bd ul",
+        titCell:".hd",
+        effect:"fold",
+        autoPlay:true,
+        autoPage:true,
+        interTime:4000,
+        vis: "auto"
+    });
+    jQuery(".news-slide").slide({
+        mainCell:".bd ul",
+        titCell:".hd",
+        effect:"leftLoop",
+        autoPlay:true,
+        autoPage:true,
+        interTime:4000,
+        vis: 1
+    });
+</script>    
+</body>
+</html>
+
